@@ -11,7 +11,7 @@ package.json:
 ```
 {
   "dependencies": {
-    "react-native-leaflet-view": "lichtmetzger/react-native-leaflet-expo",
+    "react-native-leaflet-view": "fablorv/react-native-leaflet-expo",
     ...
 }
 ```
